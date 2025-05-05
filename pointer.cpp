@@ -20,5 +20,5 @@ using namespace std;
     cout << " reference " << &d << endl;
 
     int f = 5;
-    int g = f;
+    int g = f;
 }
